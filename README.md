@@ -30,5 +30,5 @@
     <h3 align="left">Operating Systems:</h3>
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/windows-116906.jpg" alt="windows" width="60" height="40"/> </a> 
+    <a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/windows-116906.jpg" alt="windows" width="10%" height="10%"/> </a> 
   </p>
