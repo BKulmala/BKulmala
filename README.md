@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brandon Kulmala</h1>
 <h3 align="center">A computer science student at the University of Akron</h3>
 
-- 🔭 I’m currently working on **My Spring Semester**
+- 🔭 I’m currently working on **My Fall Semester**
 
-- 🌱 I’m currently learning **Game design, Object Oriented Programming, and algorithms**
+- 🌱 I’m currently learning **Web development and database structures**
 
 - 📫 How to reach me **servineatwork@gmail.com**
 
